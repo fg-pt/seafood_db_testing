@@ -2,7 +2,7 @@
 
 Interactive web dashboard for exploring sustainability risks across 300 seafood companies, 256 countries, and 624 species.
 
-**[Live Demo →](https://fg-pt.github.io/seafood-dashboard/)** *(update URL after deploying)*
+**[Live Demo →](https://fg-pt.github.io/seafood_db_testing/)** *(update URL after deploying)*
 
 ## Features
 
