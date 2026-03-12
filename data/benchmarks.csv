@@ -1,0 +1,6 @@
+metric_name,mean,median,n
+Reporting Precision PT Score,0.5951967058727935,0.6269158381194401,285
+FishSource Score - Current Stock Health,0.7676553596553327,0.7634228485264041,184
+Global Fishing Index - Proportion of 1990-2018 catches that is overfished,0.18420354385958618,0.16937346368715084,204
+SeaAroundUs Unreported / Total Catch (%),0.15214364289936658,0.12333223924963793,189
+Ocean Health Index - Score (2024),0.670952429919908,0.6692715753424658,291

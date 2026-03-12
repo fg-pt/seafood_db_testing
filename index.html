@@ -1,15 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Planet Tracker Seafood Database</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planet Tracker — Seafood Database</title>
+<meta name="description" content="Explore sustainability risks across 300 seafood companies, 256 countries, and 624 species.">
+<style>
+:root{--ny:#0b1426;--nl:#111d35;--nm:#162544;--tl:#0d9488;--tll:#5eead4;--sf:#1a2740;--bd:#243352;--tx:#e2e8f0;--dm:#94a3b8}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'DM Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--ny);color:var(--tx);min-height:100vh}
+.sf{font-family:Georgia,'Times New Roman',serif}
+button{font-family:inherit;cursor:pointer}
+::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-track{background:var(--ny)}::-webkit-scrollbar-thumb{background:var(--bd);border-radius:3px}
+.rtbl{border-collapse:separate;border-spacing:0;width:100%}
+.rtbl thead th{position:sticky;top:0;z-index:10;background:var(--nl);padding:10px 12px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--dm);border-bottom:2px solid var(--bd);cursor:pointer;white-space:nowrap;user-select:none}
+.rtbl thead th:hover{color:var(--tll)}
+.rtbl tbody tr{transition:background .15s;cursor:pointer}.rtbl tbody tr:hover{background:var(--nm)}
+.rtbl tbody td{padding:8px 12px;font-size:13px;border-bottom:1px solid var(--bd);white-space:nowrap}
+.dot{display:inline-block;border-radius:50%}
+.pill{display:inline-block;padding:2px 8px;border-radius:9999px;font-size:11px;font-weight:500;margin:2px}
+.chip{padding:5px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--bd);cursor:pointer;transition:all .15s;background:transparent;color:var(--dm);font-family:inherit}
+.chip:hover{border-color:var(--tl);color:var(--tx)}.chip.on{background:var(--tl);border-color:var(--tl);color:#fff}
+.sinp{background:var(--sf);border:1px solid var(--bd);border-radius:8px;padding:8px 12px 8px 36px;color:var(--tx);font-size:13px;width:100%;outline:none;font-family:inherit}
+.sinp:focus{border-color:var(--tl)}.sinp::placeholder{color:var(--dm)}
+.sbar{height:6px;border-radius:3px;background:var(--bd);overflow:hidden;display:inline-block}
+.sfill{height:100%;border-radius:3px;transition:width .4s ease-out}
+.tab{padding:8px 20px;font-size:13px;font-weight:600;border-radius:6px;border:1px solid transparent;background:transparent;color:var(--dm);transition:all .2s;font-family:inherit}
+.tab:hover{background:var(--nm);color:var(--tx)}.tab.on{background:var(--tl);color:#fff;border-color:var(--tl)}
+.fade{animation:fi .25s ease-out}@keyframes fi{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.mover{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:50;display:flex;align-items:flex-start;justify-content:center;padding:40px 20px;overflow-y:auto;animation:fo .2s}
+.mcont{background:var(--nl);border:1px solid var(--bd);border-radius:12px;max-width:900px;width:100%;animation:su .25s ease-out}
+@keyframes fo{from{opacity:0}to{opacity:1}}
+@keyframes su{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+select{background:var(--sf);border:1px solid var(--bd);border-radius:8px;padding:6px 10px;color:var(--tx);font-size:12px;font-family:inherit;outline:none}
+</style>
 </head>
 <body>
-    <h1>Seafood Database Dashboard</h1>
-    
-    <!-- Paste your Tableau Public embed code here -->
-   <div class='tableauPlaceholder' id='viz1768928953701' style='position: relative'><noscript><a href='#'><img alt='TIER A - Landing Page ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pl&#47;PlanetTrackerSeafoodDatabase-2026&#47;TIERA-LandingPage&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PlanetTrackerSeafoodDatabase-2026&#47;TIERA-LandingPage' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pl&#47;PlanetTrackerSeafoodDatabase-2026&#47;TIERA-LandingPage&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1768928953701');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='900px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='900px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='1527px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-            <!-- Your full Tableau embed code -->
-        </object>
-    </div>
+<div id="root"></div>
+<script src="bundle.js"></script>
 </body>
 </html>

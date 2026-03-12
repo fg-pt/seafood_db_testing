@@ -1,0 +1,490 @@
+species_name,scientific_name,iucn_category,population_trend
+Porbeagle,Lamna nasus,Vulnerable,Decreasing
+Bigeye trevally,Caranx sexfasciatus,Least Concern,Decreasing
+Schoolmaster snapper,Lutjanus apodus,Least Concern,Decreasing
+Jumbo flying squid,Dosidicus gigas,Data Deficient,Unknown
+Northern shortfin squid,Illex illecebrosus,Least Concern,Unknown
+Wellington flying squid,Nototodarus sloanii,Least Concern,Unknown
+Gould's flying squid,Nototodarus gouldi,Least Concern,Unknown
+European flying squid,Todarodes sagittatus,Least Concern,Unknown
+Argentine shortfin squid,Illex argentinus,Least Concern,Unknown
+Horned octopus,Eledone cirrhosa,Least Concern,Unknown
+Chinese gizzard shad,Clupanodon thrissa,Least Concern,Unknown
+Hilsa shad,Tenualosa ilisha,Least Concern,Decreasing
+Crimson snapper,Lutjanus erythropterus,Least Concern,Unknown
+Silver grunt,Pomadasys argenteus,Least Concern,Stable
+John's snapper,Lutjanus johnii,Least Concern,Unknown
+Japanese flying squid,Todarodes pacificus,Least Concern,Unknown
+Chere-chere grunt,Haemulon steindachneri,Least Concern,Unknown
+Longnose anchovy,Anchoa nasus,Least Concern,Unknown
+White grunt,Haemulon plumierii,Least Concern,Decreasing
+Vermilion snapper,Rhomboplites aurorubens,Vulnerable,Decreasing
+Blunthead puffer,Sphoeroides pachygaster,Least Concern,Unknown
+White margate,Haemulon album,Data Deficient,Decreasing
+Dog snapper,Lutjanus jocu,Data Deficient,Decreasing
+Bay anchovy,Anchoa mitchilli,Least Concern,Stable
+Northern puffer,Sphoeroides maculatus,Least Concern,Decreasing
+Silvery John dory,Zenopsis conchifer,Least Concern,Stable
+Smooth puffer,Lagocephalus laevigatus,Least Concern,Unknown
+Yellow goatfish,Mulloidichthys martinicus,Least Concern,Unknown
+Gulf menhaden,Brevoortia patronus,Least Concern,Stable
+Grey snapper,Lutjanus griseus,Least Concern,Unknown
+Bobo mullet,Joturus pichardi,Least Concern,Decreasing
+White-spotted puffer,Arothron hispidus,Least Concern,Unknown
+Small toothed jobfish,Aphareus furca,Least Concern,Unknown
+Crimson jobfish,Pristipomoides filamentosus,Least Concern,Unknown
+Common bluestripe snapper,Lutjanus kasmira,Least Concern,Unknown
+Black and white snapper,Macolor niger,Least Concern,Unknown
+Yellowtail snapper,Ocyurus chrysurus,Data Deficient,Decreasing
+Emperor red snapper,Lutjanus sebae,Least Concern,Decreasing
+Lane snapper,Lutjanus synagris,Near Threatened,Decreasing
+Malabar blood snapper,Lutjanus malabaricus,Least Concern,Unknown
+Yellowtail blue snapper,Paracaesio xanthura,Least Concern,Unknown
+Goldflag jobfish,Pristipomoides auricilla,Least Concern,Unknown
+Rusty jobfish,Aphareus rutilans,Least Concern,Unknown
+Two-spot red snapper,Lutjanus bohar,Least Concern,Unknown
+African forktail snapper,Apsilus fuscus,Least Concern,Unknown
+Lavender jobfish,Pristipomoides sieboldii,Least Concern,Unknown
+Ornate jobfish,Pristipomoides argyrogrammicus,Least Concern,Unknown
+Dory snapper,Lutjanus fulviflamma,Least Concern,Unknown
+Oblique-banded snapper,Pristipomoides zonatus,Least Concern,Unknown
+One-spot snapper,Lutjanus monostigma,Least Concern,Stable
+Blacktail snapper,Lutjanus fulvus,Least Concern,Unknown
+Green jobfish,Aprion virescens,Least Concern,Unknown
+Cocoa snapper,Paracaesio stonei,Least Concern,Unknown
+Deepwater longtail red snapper,Etelis coruscans,Least Concern,Unknown
+Humpback red snapper,Lutjanus gibbus,Least Concern,Unknown
+Goldbanded jobfish,Pristipomoides multidens,Least Concern,Unknown
+Saddle-back snapper,Paracaesio kusakarii,Least Concern,Unknown
+Golden eye jobfish,Pristipomoides flavipinnis,Least Concern,Unknown
+Sailfin snapper,Symphorichthys spilurus,Least Concern,Unknown
+Silk snapper,Lutjanus vivanus,Least Concern,Decreasing
+Bigeye grunt,Brachydeuterus auritus,Near Threatened,Unknown
+French grunt,Haemulon flavolineatum,Least Concern,Unknown
+Bluestriped grunt,Haemulon sciurus,Least Concern,Unknown
+African striped grunt,Parapristipoma octolineatum,Least Concern,Unknown
+Biglip grunt,Plectorhinchus macrolepis,Least Concern,Unknown
+Rubberlip grunt,Plectorhinchus mediterraneus,Data Deficient,Unknown
+Minstrel sweetlips,Plectorhinchus schotaf,Least Concern,Unknown
+Sordid rubberlip,Plectorhinchus sordidus,Least Concern,Unknown
+Sompat grunt,Pomadasys jubelini,Least Concern,Unknown
+Olive grunt,Pomadasys olivaceus,Least Concern,Unknown
+Pigsnout grunt,Pomadasys rogerii,Least Concern,Unknown
+European conger,Conger conger,Least Concern,Increasing
+Longtail Southern cod,Patagonotothen ramsayi,Data Deficient,Decreasing
+Patagonian redfish,Sebastes oculatus,Least Concern,Unknown
+Harry hotlips,Plectorhinchus gibbosus,Least Concern,Stable
+Whitespotted conger,Conger myriaster,Least Concern,Unknown
+American conger,Conger oceanicus,Least Concern,Unknown
+Blueback shad,Alosa aestivalis,Vulnerable,Decreasing
+Hickory shad,Alosa mediocris,Least Concern,Increasing
+Great white shark,Carcharodon carcharias,Vulnerable,Decreasing
+Shortfin mako,Isurus oxyrinchus,Endangered,Decreasing
+Blue shark,Prionace glauca,Near Threatened,Decreasing
+Orange-spotted grouper,Epinephelus coioides,Least Concern,Decreasing
+Longfin mako,Isurus paucus,Endangered,Decreasing
+Mangrove red snapper,Lutjanus argentimaculatus,Least Concern,Unknown
+Atlantic halibut,Hippoglossus hippoglossus,Endangered,
+Haddock,Melanogrammus aeglefinus,Vulnerable,
+Sockeye(=Red) salmon,Oncorhynchus nerka,Least Concern,Stable
+Thicklip grey mullet,Chelon labrosus,Least Concern,Unknown
+European flounder,Platichthys flesus,Least Concern,Decreasing
+Common dolphinfish,Coryphaena hippurus,Least Concern,Stable
+Blue runner,Caranx crysos,Least Concern,Unknown
+Bluefin gurnard,Chelidonichthys kumu,Least Concern,Unknown
+Great pompano,Trachinotus goodei,Least Concern,Unknown
+Argentine seabass,Acanthistius brasilianus,Data Deficient,Unknown
+African pompano,Alectis ciliaris,Least Concern,Unknown
+Atlantic bonito,Sarda sarda,Least Concern,Stable
+Solenette,Buglossidium luteum,Least Concern,Unknown
+Atlantic herring,Clupea harengus,Least Concern,Increasing
+Bastard grunt,Pomadasys incisus,Least Concern,Unknown
+West coast sole,Austroglossus microlepis,Data Deficient,Decreasing
+Blackfin tuna,Thunnus atlanticus,Least Concern,Stable
+Chilean silverside,Odontesthes regia,Least Concern,Stable
+American lobster,Homarus americanus,Least Concern,Stable
+Red rock lobster,Jasus edwardsii,Least Concern,Stable
+Pacific chub mackerel,Scomber japonicus,Least Concern,Stable
+Longbill spearfish,Tetrapturus pfluegeri,Least Concern,Stable
+Indo-Pacific king mackerel,Scomberomorus guttatus,Data Deficient,Unknown
+Black marlin,Istiompax indica,Data Deficient,Unknown
+Striped bonito,Sarda orientalis,Least Concern,Unknown
+Blue marlin,Makaira nigricans,Vulnerable,Decreasing
+Shortbill spearfish,Tetrapturus angustirostris,Data Deficient,Unknown
+Narrow-barred Spanish mackerel,Scomberomorus commerson,Near Threatened,Decreasing
+Short mackerel,Rastrelliger brachysoma,Data Deficient,Unknown
+Plain bonito,Orcynopsis unicolor,Least Concern,Stable
+Black skipjack,Euthynnus lineatus,Least Concern,Stable
+Atlantic white marlin,Kajikia albida,Vulnerable,Decreasing
+Atlantic Spanish mackerel,Scomberomorus maculatus,Least Concern,Unknown
+Pacific sierra,Scomberomorus sierra,Least Concern,Stable
+West African Spanish mackerel,Scomberomorus tritor,Least Concern,Unknown
+Cero,Scomberomorus regalis,Least Concern,Unknown
+Indian mackerel,Rastrelliger kanagurta,Data Deficient,Unknown
+Blue mackerel,Scomber australasicus,Least Concern,Stable
+Wahoo,Acanthocybium solandri,Least Concern,Stable
+Australian bonito,Sarda australis,Least Concern,Unknown
+Serra Spanish mackerel,Scomberomorus brasiliensis,Least Concern,Decreasing
+Kawakawa,Euthynnus affinis,Least Concern,Unknown
+Broad-barred king mackerel,Scomberomorus semifasciatus,Least Concern,Unknown
+Indo-Pacific sailfish,Istiophorus platypterus,Least Concern,Unknown
+King mackerel,Scomberomorus cavalla,Least Concern,Stable
+Dogtooth tuna,Gymnosarda unicolor,Least Concern,Unknown
+Frigate tuna,Auxis thazard,Least Concern,Stable
+Little tunny(=Atl.black skipj),Euthynnus alletteratus,Least Concern,Stable
+Slender tuna,Allothunnus fallai,Least Concern,Stable
+Longtail tuna,Thunnus tonggol,Data Deficient,Unknown
+Eastern Pacific bonito,Sarda chiliensis,Least Concern,Decreasing
+Atlantic mackerel,Scomber scombrus,Least Concern,Decreasing
+Bullet tuna,Auxis rochei,Least Concern,Stable
+Japanese Spanish mackerel,Scomberomorus niphonius,Data Deficient,Unknown
+Atlantic chub mackerel,Scomber colias,Least Concern,Unknown
+Double-lined mackerel,Grammatorcynus bilineatus,Least Concern,Unknown
+Inshore sand perch,Diplectrum pacificum,Least Concern,Unknown
+Peruvian moonfish,Selene peruviana,Least Concern,Unknown
+Sonora scorpionfish,Scorpaena sonorae,Least Concern,Unknown
+Mexican barred snapper,Hoplopagrus guentherii,Least Concern,Unknown
+Longspine grunt,Pomadasys macracanthus,Least Concern,Unknown
+Pacific red snapper,Lutjanus peru,Least Concern,Unknown
+Pacific piquitinga,Lile stolifera,Least Concern,Unknown
+North Pacific hake,Merluccius productus,Least Concern,Unknown
+Spotted sand bass,Paralabrax maculatofasciatus,Least Concern,Unknown
+Pacific thread herring,Opisthonema libertate,Least Concern,Stable
+Pacific jack mackerel,Trachurus symmetricus,Least Concern,Unknown
+Peruvian rock seabass,Paralabrax humeralis,Data Deficient,Unknown
+Black wing flyingfish,Hirundichthys rondeletii,Least Concern,Unknown
+Spotted rose snapper,Lutjanus guttatus,Least Concern,Unknown
+Pacific bumper,Chloroscombrus orqueta,Least Concern,Unknown
+Yellow snapper,Lutjanus argentiventris,Least Concern,Unknown
+Chilean jack mackerel,Trachurus murphyi,Data Deficient,Unknown
+Sea trout,Salmo trutta,Least Concern,Unknown
+Acadian redfish,Sebastes fasciatus,Endangered,
+Shortspine thornyhead,Sebastolobus alascanus,Endangered,
+Black and Caspian Sea sprat,Clupeonella cultriventris,Least Concern,Unknown
+Atlantic cod,Gadus morhua,Vulnerable,
+Allis shad,Alosa alosa,Least Concern,Unknown
+Pontic shad,Alosa immaculata,Vulnerable,Decreasing
+Sand smelt,Atherina presbyter,Least Concern,Unknown
+Whitehead's round herring,Etrumeus whiteheadi,Least Concern,Unknown
+Bonga shad,Ethmalosa fimbriata,Least Concern,Unknown
+European pilchard(=Sardine),Sardina pilchardus,Least Concern,Unknown
+Madeiran sardinella,Sardinella maderensis,Vulnerable,Unknown
+European anchovy,Engraulis encrasicolus,Least Concern,Decreasing
+Mediterranean flyingfish,Cheilopogon heterurus,Least Concern,Unknown
+Offshore rockfish,Pontinus kuhlii,Data Deficient,Unknown
+Small red scorpionfish,Scorpaena notata,Least Concern,Unknown
+Red scorpionfish,Scorpaena scrofa,Least Concern,Unknown
+Blackbelly rosefish,Helicolenus dactylopterus,Least Concern,Unknown
+Foureyed sole,Microchirus ocellatus,Data Deficient,Unknown
+Thickback sole,Microchirus variegatus,Least Concern,Unknown
+Common sole,Solea solea,Data Deficient,Stable
+Klein's sole,Synapturichthys kleinii,Data Deficient,Unknown
+Tub gurnard,Chelidonichthys lucerna,Least Concern,Unknown
+Piper gurnard,Trigla lyra,Least Concern,Unknown
+Atlantic flyingfish,Cheilopogon melanurus,Least Concern,Unknown
+Fourbeard rockling,Enchelyopus cimbrius,Least Concern,Unknown
+Shallow-water Cape hake,Merluccius capensis,Least Concern,Unknown
+Benguela hake,Merluccius polli,Least Concern,Unknown
+Senegalese hake,Merluccius senegalensis,Endangered,Decreasing
+Mud sole,Austroglossus pectoralis,Data Deficient,Unknown
+Senegalese sole,Solea senegalensis,Data Deficient,Unknown
+Cape gurnard,Chelidonichthys capensis,Least Concern,Stable
+Atlantic thread herring,Opisthonema oglinum,Least Concern,Unknown
+Bar jack,Caranx ruber,Least Concern,Unknown
+Silver hake,Merluccius bilinearis,Near Threatened,Unknown
+Spicule anchovy,Anchoa spinifer,Least Concern,Unknown
+Shortbeard cusk-eel,Lepophidium brevibarbe,Least Concern,Unknown
+Atlantic silverside,Menidia menidia,Least Concern,Stable
+Rainbow runner,Elagatis bipinnulata,Least Concern,Stable
+Broad-striped anchovy,Anchoa hepsetus,Least Concern,Unknown
+Black seabass,Centropristis striata,Least Concern,Stable
+False herring,Harengula clupeola,Least Concern,Decreasing
+Sand perch,Diplectrum formosum,Least Concern,Unknown
+Bearded brotula,Brotula barbata,Least Concern,Unknown
+Atlantic moonfish,Selene setapinnis,Least Concern,Stable
+Lookdown,Selene vomer,Least Concern,Stable
+Longfin yellowtail,Seriola rivoliana,Least Concern,Stable
+Banded rudderfish,Seriola zonata,Least Concern,Stable
+Florida pompano,Trachinotus carolinus,Least Concern,Unknown
+Atlantic menhaden,Brevoortia tyrannus,Least Concern,Increasing
+Atlantic anchoveta,Cetengraulis edentulus,Least Concern,Unknown
+Cayenne pompano,Trachinotus cayennensis,Least Concern,Stable
+Escolar,Lepidocybium flavobrunneum,Least Concern,Unknown
+Roudi escolar,Promethichthys prometheus,Least Concern,Stable
+Spotted goatfish,Pseudupeneus maculatus,Least Concern,Unknown
+White trevally,Pseudocaranx dentex,Least Concern,Unknown
+Rough scad,Trachurus lathami,Least Concern,Stable
+Oilfish,Ruvettus pretiosus,Least Concern,Stable
+Burbot,Lota lota,Least Concern,Stable
+Alewife,Alosa pseudoharengus,Least Concern,Unknown
+Vadigo,Campogramma glaycos,Least Concern,Stable
+Blackbellied angler,Lophius budegassa,Data Deficient,Unknown
+Angler(=Monk),Lophius piscatorius,Least Concern,Unknown
+John dory,Zeus faber,Data Deficient,Stable
+Swallowtail seaperch,Anthias anthias,Least Concern,Stable
+Black scabbardfish,Aphanopus carbo,Least Concern,Unknown
+Intermediate scabbardfish,Aphanopus intermedius,Least Concern,Unknown
+Bluespotted seabass,Cephalopholis taeniops,Least Concern,Stable
+Silver scabbardfish,Lepidopus caudatus,Data Deficient,Unknown
+Surmullet,Mullus surmuletus,Least Concern,Unknown
+Island grouper,Mycteroperca fusca,Vulnerable,Decreasing
+Mottled grouper,Mycteroperca rubra,Least Concern,Unknown
+Creole-fish,Paranthias furcifer,Least Concern,Stable
+West African goatfish,Pseudupeneus prayensis,Vulnerable,Decreasing
+Comber,Serranus cabrilla,Least Concern,Stable
+Brown comber,Serranus hepatus,Least Concern,Unknown
+Painted comber,Serranus scriba,Least Concern,Stable
+Alexandria pompano,Alectis alexandrina,Least Concern,Stable
+African moonfish,Selene dorsalis,Least Concern,Stable
+Yellowtail amberjack,Seriola lalandi,Least Concern,Stable
+Pompano,Trachinotus ovatus,Least Concern,Unknown
+Cape horse mackerel,Trachurus capensis,Least Concern,Unknown
+Mediterranean horse mackerel,Trachurus mediterraneus,Least Concern,Stable
+Blue jack mackerel,Trachurus picturatus,Least Concern,Stable
+Atlantic horse mackerel,Trachurus trachurus,Vulnerable,Decreasing
+Cunene horse mackerel,Trachurus trecae,Least Concern,Stable
+False scad,Caranx rhonchus,Least Concern,Stable
+Senegal jack,Caranx senegallus,Least Concern,Stable
+Leerfish,Lichia amia,Least Concern,Unknown
+Amberstripe scad,Decapterus muroadsi,Least Concern,Unknown
+Whiting,Merlangius merlangus,Least Concern,Unknown
+Pollack,Pollachius pollachius,Least Concern,Unknown
+Norway pout,Trisopterus esmarkii,Least Concern,Increasing
+Spanish ling,Molva macrophthalma,Least Concern,Unknown
+Common dab,Limanda limanda,Least Concern,Increasing
+Yellowfin tuna,Thunnus albacares,Least Concern,Decreasing
+Malabar grouper,Epinephelus malabaricus,Least Concern,Decreasing
+White-blotched grouper,Epinephelus multinotatus,Least Concern,Decreasing
+Smallscaled grouper,Epinephelus polylepis,Least Concern,Decreasing
+Yellowfin hind,Cephalopholis hemistiktos,Least Concern,Decreasing
+Areolate grouper,Epinephelus areolatus,Least Concern,Unknown
+Spinycheek grouper,Epinephelus diacanthus,Least Concern,Decreasing
+Redmouth grouper,Aethaloperca rogaa,Least Concern,Unknown
+Duskytail grouper,Epinephelus bleekeri,Data Deficient,Decreasing
+Bloch's gizzard shad,Nematalosa nasus,Least Concern,Unknown
+Deep-water red snapper,Etelis carbunculus,Least Concern,Unknown
+White sardinella,Sardinella albella,Least Concern,Unknown
+Skipjack tuna,Katsuwonus pelamis,Least Concern,Decreasing
+Slender rainbow sardine,Dussumieria elopsoides,Least Concern,Unknown
+Striped piggy,Pomadasys stridens,Least Concern,Unknown
+Longfin trevally,Carangoides armatus,Least Concern,Unknown
+Black pomfret,Parastromateus niger,Least Concern,Decreasing
+Indian pompano,Trachinotus mookalee,Least Concern,Unknown
+Chacunda gizzard shad,Anodontostoma chacunda,Least Concern,Unknown
+Trout sweetlips,Plectorhinchus pictus,Least Concern,Unknown
+Warsaw groupes,Hyporthodus nigritus,Near Threatened,Unknown
+Snowy grouper,Hyporthodus niveatus,Vulnerable,Decreasing
+Nassau grouper,Epinephelus striatus,Critically Endangered,Decreasing
+Gag,Mycteroperca microlepis,Vulnerable,Decreasing
+Albacore,Thunnus alalunga,Least Concern,Decreasing
+Bigeye tuna,Thunnus obesus,Vulnerable,Decreasing
+Atlantic bluefin tuna,Thunnus thynnus,Least Concern,Unknown
+Red grouper,Epinephelus morio,Vulnerable,Decreasing
+Tiger grouper,Mycteroperca tigris,Data Deficient,Decreasing
+Yellowfin grouper,Mycteroperca venenosa,Near Threatened,Decreasing
+Yellowedge grouper,Hyporthodus flavolimbatus,Vulnerable,Decreasing
+Yellowmouth grouper,Mycteroperca interstitialis,Vulnerable,Decreasing
+Black grouper,Mycteroperca bonaci,Near Threatened,Decreasing
+Scamp,Mycteroperca phenax,Data Deficient,Stable
+Graysby,Cephalopholis cruentata,Least Concern,Stable
+Red hind,Epinephelus guttatus,Least Concern,Unknown
+Coney,Cephalopholis fulva,Least Concern,Decreasing
+Rock hind,Epinephelus adscensionis,Least Concern,Stable
+Misty grouper,Hyporthodus mystacinus,Least Concern,Unknown
+Comb grouper,Mycteroperca acutirostris,Least Concern,Stable
+Mediterranean spearfish,Tetrapturus belone,Least Concern,Stable
+Egyptian sole,Solea aegyptiaca,Least Concern,Stable
+Blackspotted rubberlip,Plectorhinchus gaterinus,Least Concern,Unknown
+European plaice,Pleuronectes platessa,Least Concern,Increasing
+Whitetongue jack,Uraspis helvola,Least Concern,Unknown
+Brushtooth lizardfish,Saurida undosquamis,Least Concern,Stable
+Indian oil sardine,Sardinella longiceps,Least Concern,Unknown
+Pudgy cuskeel,Spectrunculus grandis,Least Concern,Unknown
+Forkbeard,Phycis phycis,Least Concern,Unknown
+Streaked gurnard,Chelidonichthys lastoviza,Least Concern,Unknown
+Antarctic krill,Euphausia superba,Least Concern,Stable
+Japanese scad,Decapterus maruadsi,Least Concern,Unknown
+Yellowtail horse mackerel,Trachurus novaezelandiae,Least Concern,Unknown
+Greenback horse mackerel,Trachurus declivis,Least Concern,Stable
+Japanese jack mackerel,Trachurus japonicus,Near Threatened,Decreasing
+Pink maomao,Caprodon longimanus,Least Concern,Unknown
+Dotted gizzard shad,Konosirus punctatus,Least Concern,Unknown
+Japanese sardinella,Sardinella zunasi,Least Concern,Unknown
+Shorthead anchovy,Encrasicholina heteroloba,Least Concern,Unknown
+Buccaneer anchovy,Encrasicholina punctifer,Least Concern,Unknown
+Dussumier's thryssa,Thryssa dussumieri,Least Concern,Unknown
+Southern green abalone,Haliotis fulgens,Critically Endangered,Decreasing
+Perlemoen abalone,Haliotis midae,Endangered,Decreasing
+Blacklip abalone,Haliotis rubra,Vulnerable,Decreasing
+Tuberculate abalone,Haliotis tuberculata,Vulnerable,Decreasing
+White mullet,Mugil curema,Least Concern,Unknown
+Lebranche mullet,Mugil liza,Data Deficient,Unknown
+American shad,Alosa sapidissima,Least Concern,Unknown
+European hake,Merluccius merluccius,Least Concern,Unknown
+Norway lobster,Nephrops norvegicus,Least Concern,Stable
+Crevalle jack,Caranx hippos,Least Concern,Stable
+Horse-eye jack,Caranx latus,Least Concern,Stable
+Scaled herring,Harengula jaguana,Least Concern,Unknown
+Brazilian menhaden,Brevoortia aurea,Least Concern,Stable
+Spotted sardinella,Amblygaster sirm,Least Concern,Unknown
+Argentine menhaden,Brevoortia pectinata,Least Concern,Stable
+Araucanian herring,Strangomera bentincki,Least Concern,Unknown
+Peacock hind,Cephalopholis argus,Least Concern,Stable
+Chocolate hind,Cephalopholis boenak,Least Concern,Stable
+Coral hind,Cephalopholis miniata,Least Concern,Stable
+Sixblotch hind,Cephalopholis sexmaculata,Least Concern,Unknown
+Tomato hind,Cephalopholis sonnerati,Least Concern,Stable
+Darkfin hind,Cephalopholis urodeta,Least Concern,Stable
+Humpback grouper,Cromileptes altivelis,Data Deficient,Decreasing
+Leather bass,Dermatolepis dermatolepis,Least Concern,Unknown
+White grouper,Epinephelus aeneus,Near Threatened,Decreasing
+Spotted grouper,Epinephelus analogus,Least Concern,Stable
+Leopard coralgrouper,Plectropomus leopardus,Least Concern,Decreasing
+Dogtooth grouper,Epinephelus caninus,Data Deficient,Unknown
+Brownspotted grouper,Epinephelus chlorostigma,Least Concern,Stable
+Giant grouper,Epinephelus lanceolatus,Data Deficient,Decreasing
+Blacksaddled coralgrouper,Plectropomus laevis,Least Concern,Unknown
+Dusky grouper,Epinephelus marginatus,Vulnerable,Decreasing
+Brown-marbled grouper,Epinephelus fuscoguttatus,Vulnerable,Decreasing
+Roving coralgrouper,Plectropomus pessuliferus,Least Concern,Decreasing
+Blacktip grouper,Epinephelus fasciatus,Least Concern,Unknown
+Dungat grouper,Epinephelus goreensis,Near Threatened,Decreasing
+Starspotted grouper,Epinephelus hexagonatus,Least Concern,Stable
+Starry grouper,Epinephelus labriformis,Least Concern,Stable
+Highfin grouper,Epinephelus maculatus,Least Concern,Decreasing
+Honeycomb grouper,Epinephelus merra,Least Concern,Stable
+Comet grouper,Epinephelus morrhua,Least Concern,Stable
+Dot-dash grouper,Epinephelus poecilonotus,Least Concern,Unknown
+Camouflage grouper,Epinephelus polyphekadion,Vulnerable,Decreasing
+Summan grouper,Epinephelus summana,Least Concern,Unknown
+Greasy grouper,Epinephelus tauvina,Data Deficient,Unknown
+Broomtail grouper,Mycteroperca xenarcha,Data Deficient,Decreasing
+White-edged lyretail,Variola albimarginata,Least Concern,Decreasing
+Yellow-edged lyretail,Variola louti,Least Concern,Stable
+American gizzard shad,Dorosoma cepedianum,Least Concern,Stable
+Pacific menhaden,Ethmidium maculatum,Data Deficient,Unknown
+Slender thread herring,Opisthonema bulleri,Least Concern,Unknown
+Middling thread herring,Opisthonema medirastre,Least Concern,Unknown
+Smalltoothed pellonula,Pellonula leonensis,Least Concern,Unknown
+Silver-stripe round herring,Spratelloides gracilis,Least Concern,Unknown
+Pacific anchoveta,Cetengraulis mysticetus,Least Concern,Unknown
+Californian anchovy,Engraulis mordax,Data Deficient,Unknown
+Anchoveta(=Peruvian anchovy),Engraulis ringens,Least Concern,Increasing
+Five-lined snapper,Lutjanus quinquelineatus,Least Concern,Unknown
+Blackfin goosefish,Lophius gastrophysus,Least Concern,Decreasing
+Manybar goatfish,Parupeneus multifasciatus,Least Concern,Unknown
+Devil anglerfish,Lophius vomerinus,Near Threatened,Unknown
+Beaked redfish,Sebastes mentella,Least Concern,Unknown
+Golden threadfin bream,Nemipterus virgatus,Vulnerable,Decreasing
+Indian scad,Decapterus russelli,Least Concern,Decreasing
+New Zealand dory,Cyttus novaezealandiae,Least Concern,Unknown
+Large-headed scorpionfish,Pontinus macrocephalus,Least Concern,Unknown
+Wedge sole,Dicologlossa cuneata,Least Concern,Unknown
+Panama grunt,Pomadasys panamensis,Least Concern,Unknown
+Cabinza grunt,Isacia conceptionis,Least Concern,Unknown
+Saddle grunt,Pomadasys maculatus,Least Concern,Unknown
+Largehead hairtail,Trichiurus lepturus,Least Concern,Stable
+Mackerel scad,Decapterus macarellus,Least Concern,Unknown
+Cardinal snapper,Pristipomoides macrophthalmus,Least Concern,Unknown
+Bigeye scad,Selar crumenophthalmus,Least Concern,Stable
+Pilotfish,Naucrates ductor,Least Concern,Stable
+Tomtate grunt,Haemulon aurolineatum,Least Concern,Decreasing
+Pigfish,Orthopristis chrysoptera,Least Concern,Unknown
+Northern red snapper,Lutjanus campechanus,Vulnerable,Decreasing
+Barred grunt,Conodon nobilis,Least Concern,Unknown
+Bronzestripe grunt,Haemulon boschmae,Least Concern,Unknown
+Roughneck grunt,Haemulopsis corvinaeformis,Least Concern,Unknown
+Round sardinella,Sardinella aurita,Least Concern,Unknown
+Greater amberjack,Seriola dumerili,Least Concern,Unknown
+Black jack,Caranx lugubris,Least Concern,Stable
+Atlantic bumper,Chloroscombrus chrysurus,Least Concern,Stable
+Round scad,Decapterus punctatus,Least Concern,Stable
+Cottonmouth jack,Uraspis secunda,Least Concern,Stable
+Shrimp scad,Alepes djedaba,Least Concern,Unknown
+Goldband goatfish,Upeneus moluccensis,Least Concern,Stable
+Indian threadfish,Alectis indica,Least Concern,Unknown
+Yellowtail scad,Atule mate,Least Concern,Unknown
+Longnose trevally,Carangoides chrysophrys,Least Concern,Unknown
+Yellowspotted trevally,Carangoides fulvoguttatus,Least Concern,Unknown
+Malabar trevally,Carangoides malabaricus,Least Concern,Unknown
+Island trevally,Carangoides orthogrammus,Least Concern,Unknown
+Imposter trevally,Carangoides talamparoides,Least Concern,Unknown
+Giant trevally,Caranx ignobilis,Least Concern,Unknown
+Bluefin trevally,Caranx melampygus,Least Concern,Unknown
+Brassy trevally,Caranx papuensis,Least Concern,Unknown
+Shortfin scad,Decapterus macrosoma,Least Concern,Unknown
+Golden trevally,Gnathanodon speciosus,Least Concern,Unknown
+Torpedo scad,Megalaspis cordyla,Least Concern,Unknown
+Talang queenfish,Scomberoides commersonnianus,Least Concern,Unknown
+Doublespotted queenfish,Scomberoides lysan,Least Concern,Unknown
+Needlescaled queenfish,Scomberoides tol,Least Concern,Unknown
+Yellowstripe scad,Selaroides leptolepis,Least Concern,Unknown
+Samson fish,Seriola hippos,Least Concern,Unknown
+Blackbanded trevally,Seriolina nigrofasciata,Least Concern,Unknown
+Snubnose pompano,Trachinotus blochii,Least Concern,Unknown
+Orangespotted trevally,Carangoides bajad,Least Concern,Unknown
+Yellowstripe goatfish,Mulloidichthys flavolineatus,Least Concern,Stable
+Sulphur goatfish,Upeneus sulphureus,Least Concern,Stable
+Yellowstriped goatfish,Upeneus vittatus,Least Concern,Unknown
+Orange goatfish,Mulloidichthys pfluegeri,Least Concern,Unknown
+Yellowfin goatfish,Mulloidichthys vanicolensis,Least Concern,Stable
+Dash-and-dot goatfish,Parupeneus barberinus,Least Concern,Unknown
+Gold-saddle goatfish,Parupeneus cyclostomus,Least Concern,Stable
+Indian goatfish,Parupeneus indicus,Least Concern,Unknown
+Sidespot goatfish,Parupeneus pleurostigma,Least Concern,Unknown
+Finstripe goatfish,Upeneus taeniopterus,Least Concern,Unknown
+Parona leatherjacket,Parona signata,Least Concern,Unknown
+American eel,Anguilla rostrata,Endangered,Decreasing
+Argentine conger,Conger orbignianus,Least Concern,Unknown
+Flathead grey mullet,Mugil cephalus,Least Concern,Stable
+Bluecheek silver grunt,Pomadasys argyreus,Least Concern,Unknown
+Snake blenny,Ophidion barbatum,Least Concern,Unknown
+Broadtail shortfin squid,Illex coindetii,Least Concern,Unknown
+Lesser flying squid,Todaropsis eblanae,Least Concern,Unknown
+Shortspine African angler,Lophius vaillanti,Least Concern,Unknown
+Indian anchovy,Stolephorus indicus,Least Concern,Unknown
+Kelee shad,Hilsa kelee,Least Concern,Stable
+South American pilchard,Sardinops sagax,Least Concern,Unknown
+Toli shad,Tenualosa toli,Vulnerable,Decreasing
+European sprat,Sprattus sprattus,Least Concern,Unknown
+Brazilian sardinella,Sardinella brasiliensis,Data Deficient,Unknown
+Goldstripe sardinella,Sardinella gibbosa,Least Concern,Unknown
+Sind sardinella,Sardinella sindensis,Least Concern,Unknown
+Fringescale sardinella,Sardinella fimbriata,Least Concern,Unknown
+Bali sardinella,Sardinella lemuru,Near Threatened,Decreasing
+Southern African anchovy,Engraulis capensis,Least Concern,Unknown
+Japanese anchovy,Engraulis japonicus,Least Concern,Unknown
+Turbot,Scophthalmus maximus,Least Concern,Decreasing
+Atlantic goliath grouper,Epinephelus itajara,Vulnerable,Decreasing
+European eel,Anguilla anguilla,Critically Endangered,Decreasing
+Short-finned eel,Anguilla australis,Near Threatened,Unknown
+Petrale sole,Eopsetta jordani,Least Concern,Stable
+Kamchatka flounder,Atheresthes evermanni,Least Concern,Increasing
+Arrowtooth flounder,Atheresthes stomias,Least Concern,Stable
+Rex sole,Glyptocephalus zachirus,Least Concern,Stable
+Flathead sole,Hippoglossoides elassodon,Least Concern,Stable
+Pacific halibut,Hippoglossus stenolepis,Least Concern,Stable
+Rock sole,Lepidopsetta bilineata,Least Concern,Stable
+Northern rock sole,Lepidopsetta polyxystra,Least Concern,Stable
+Yellowfin sole,Limanda aspera,Least Concern,Decreasing
+Dover sole,Microstomus pacificus,Least Concern,Stable
+Curlfin sole,Pleuronichthys decurrens,Least Concern,Stable
+Pacific sand sole,Psettichthys melanostictus,Least Concern,Unknown
+Falkland sprat,Sprattus fuegensis,Least Concern,Decreasing
+Argentine anchovy,Engraulis anchoita,Least Concern,Stable
+Starry flounder,Platichthys stellatus,Least Concern,Stable
+Mutton snapper,Lutjanus analis,Near Threatened,Decreasing
+Lemon sole,Microstomus kitt,Least Concern,Stable
+Southern bluefin tuna,Thunnus maccoyii,Endangered,Increasing
+Pacific bluefin tuna,Thunnus orientalis,Near Threatened,Decreasing
+Spotty-face anchovy,Stolephorus waitei,Data Deficient,Unknown
+Twaite shad,Alosa fallax,Least Concern,Stable
+Big-scale sand smelt,Atherina boyeri,Least Concern,Unknown
+Yellow-eye mullet,Aldrichetta forsteri,Least Concern,Stable
+Black scorpionfish,Scorpaena porcus,Least Concern,Unknown
+Queen snapper,Etelis oculatus,Data Deficient,Unknown
+Squaretail coralgrouper,Plectropomus areolatus,Vulnerable,Decreasing
+Rainbow sardine,Dussumieria acuta,Least Concern,Unknown
+Saithe(=Pollock),Pollachius virens,Least Concern,Unknown
+Blue ling,Molva dypterygia,Vulnerable,Unknown
+Grey gurnard,Eutrigla gurnardus,Least Concern,Unknown
